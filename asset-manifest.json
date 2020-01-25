@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/darji/static/css/main.d1b05096.chunk.css",
+    "main.js": "/darji/static/js/main.312e9093.chunk.js",
+    "main.js.map": "/darji/static/js/main.312e9093.chunk.js.map",
+    "runtime-main.js": "/darji/static/js/runtime-main.aa83b4d5.js",
+    "runtime-main.js.map": "/darji/static/js/runtime-main.aa83b4d5.js.map",
+    "static/js/2.970dc2b9.chunk.js": "/darji/static/js/2.970dc2b9.chunk.js",
+    "static/js/2.970dc2b9.chunk.js.map": "/darji/static/js/2.970dc2b9.chunk.js.map",
+    "index.html": "/darji/index.html",
+    "precache-manifest.c6ac9ed0dd01447c54d9de7044f20d67.js": "/darji/precache-manifest.c6ac9ed0dd01447c54d9de7044f20d67.js",
+    "service-worker.js": "/darji/service-worker.js",
+    "static/css/main.d1b05096.chunk.css.map": "/darji/static/css/main.d1b05096.chunk.css.map",
+    "static/js/2.970dc2b9.chunk.js.LICENSE": "/darji/static/js/2.970dc2b9.chunk.js.LICENSE",
+    "static/media/logo.svg": "/darji/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.aa83b4d5.js",
+    "static/js/2.970dc2b9.chunk.js",
+    "static/css/main.d1b05096.chunk.css",
+    "static/js/main.312e9093.chunk.js"
+  ]
+}
